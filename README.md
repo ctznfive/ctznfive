@@ -13,6 +13,6 @@
   
 > “Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.”
 > 
-> <cite>Philip Greenspun</cite>
+> <cite>Philip Greenspun's tenth rule</cite>
 
 </div>
